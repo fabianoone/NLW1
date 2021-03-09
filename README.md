@@ -8,7 +8,7 @@
 <br>
 <p align="center">
     <a href="https://www.linkedin.com/in/fabianoone/">
-    <img alt="Fabiano Oliveira" title="Dev Fabiano Oliveira" src="https://avatars.githubusercontent.com/u/3976796?s=48&v=4" width="19">
+    <img alt="Fabiano Oliveira" title="Fabiano Oliveira | Dev" src="https://avatars.githubusercontent.com/u/3976796?s=48&v=4" width="19">
     <img alt="Made by Fabiano Oliveira" src="https://img.shields.io/badge/made%20by-fabianoone-%234c1">
   </a>
 <img alt="Repository size" src="https://img.shields.io/github/repo-size/fabianoone/NLW-1.0">

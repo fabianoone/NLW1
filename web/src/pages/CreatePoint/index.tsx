@@ -4,6 +4,8 @@ import { FiArrowLeft } from 'react-icons/fi';
 import { Map, TileLayer, Marker, Popup } from 'react-leaflet';
 import api from '../../services/api';
 
+import Dropzone from '../../components/Dropzone';
+
 import './styles.css';
 
 import logo from '../../assets/logo.svg';
@@ -150,6 +152,7 @@ const CreatPoint = () => {
             
             <form onSubmit={handleSubmit}>
                 <h1>Cadastro do <br />ponto de coleta</h1>
+                <Dropzone />
                 <fieldset>
                     <header role="legend">
                     <h2>Dados</h2>
